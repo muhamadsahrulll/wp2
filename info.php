@@ -1,1 +1,4 @@
-.php
+<?php
+phpinfo();
+echo "test";
+?>
