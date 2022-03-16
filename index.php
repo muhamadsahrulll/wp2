@@ -6,7 +6,7 @@ $result = pg_query($sql);
 ?>
 
 <h1>Aplikasi Mahasiswa</h1>
-
+<p>test</p>
 <a href="tambah.php">Tambah</a><br>
 <table border="1">
     <thead>
