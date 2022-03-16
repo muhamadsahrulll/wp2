@@ -1,7 +1,7 @@
 <?php
 include('koneksi.php');
 
-$sql = "select * from mahasiswa";
+$sql = "select * from mahasiswaa";
 $result = pg_query($sql);
 ?>
 
